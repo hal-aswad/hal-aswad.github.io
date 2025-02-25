@@ -2,7 +2,9 @@
 title: Welcome/Bonjour/مرحباً
 layout: home
 ---
-
+<div style="text-align: right;">
+<img src="{{ site.baseurl }}/assets/personal_photo.jpg" alt="Image" style="width: 350px; float: right;">
+</div> 
 I am in post-doc position at CNRS in the [ECO team](https://www.lirmm.fr/equipes/eco/) in Montpellier, France.
 
 My research theme is computational number theory. Currentely, I work on the problem of computing class groups in quadratic number fields and I have a high interest in lattice-based cryptography.
@@ -14,7 +16,7 @@ A work with Cécile Pierrot and Emmanuel Thomé on using Galois automorphisms in
 We have exciting results that lead to significant accelerations in the linear algebra step. These accelerations allow significant and practical improvements in attacks against pairings.
 
 
-# Short Vita: (<a href="/assets/cv_en.pdf">Long_curriculum_vitae.pdf</a>)
+# Short Vita: (<a href="{{ site.baseurl }}/assets/cv_en.pdf">Long_curriculum_vitae.pdf</a>)
 
 - **Doctorat "the discrete logarithm problem in extensions of finite fields"**, at LORIA, Nancy, France, under the supervision of Cécile PIERROT and Emmanuel THOMÉ, 
 defended on december 2024.

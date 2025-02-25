@@ -10,9 +10,9 @@ permalink: /teaching/
 
 Study of three algorithms, Bellman-Ford, Dijkstra, and A*, with a focus on correctness and optimality proofs.
 
-* <a href="/halaswad.github.io/assets/plus_court_chemin.pdf">Notes</a>
-* <a href="/halaswad.github.io/assets/td_pcc.pdf">Exercises – Bellman-Ford</a>
-* <a href="/halaswad.github.io/assets/td_pcc_2.pdf">Exercises – A*</a>
+* <a href="{{ site.baseurl }}/assets/plus_court_chemin.pdf">Notes</a>
+* <a href="{{ site.baseurl }}/assets/td_pcc.pdf">Exercises – Bellman-Ford</a>
+* <a href="{{ site.baseurl }}/assets/td_pcc_2.pdf">Exercises – A*</a>
 
 # Exercise sessions (École des mines, Nancy, France)
 - Graph theory (Master)
