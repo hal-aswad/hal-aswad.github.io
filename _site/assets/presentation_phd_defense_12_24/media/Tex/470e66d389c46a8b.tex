@@ -1,0 +1,24 @@
+\documentclass[preview]{standalone}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{hhline}
+\renewcommand{\theadfont}{\bfseries}
+\renewcommand\arraystretch{1.5}
+\usepackage{xcolor, colortbl}
+\begin{document}
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+        \hline
+        $ \,$ Finite field $ \,$ & $ \,$Bitsize of $p^6 \,$ &$ \,$ Year$ \,$& $ \,$ Team $ \,$ & $ \,$ Algorithm $ \,$ & $ \,$ Cost in core-years $ \,$\\
+        \hline
+        $\mathbb{F}_{p^4}$ & 512& 2022 & Robinson & TNFS & $6.3$\\
+        $\mathbb{F}_{p^6}$ & 521& 2021 & De Micheli, Gaudry, Pierrot & TNFS & $2.8$\\
+        $\mathbb{F}_{p^6}$ & 423 & 2020 & McGuire, Robinson & NFS & $9.3$\\
+        $\mathbb{F}_{p^6}$ & 422 & 2017 & Grémy, Guillevic, Morain and Thomé & NFS & $26.1$\\
+        \hline
+    \end{tabular}
+\end{center}
+\end{document}

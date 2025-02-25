@@ -1,0 +1,32 @@
+\documentclass[preview]{standalone}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{hhline}
+\renewcommand{\theadfont}{\bfseries}
+\renewcommand\arraystretch{1.5}
+\usepackage{xcolor, colortbl}
+\usepackage{tikz, tikz-cd}
+\newcommand{\K}{\mathcal{K}}
+\newcommand{\F}{\mathbb{F}}
+\begin{document}
+\begin{center}
+\begin{figure}
+                \centering
+                \[
+                \begin{tikzcd}
+                &\K_1 \ar[dl, "2", dash] \ar[ddr, "3", dash] & \\
+                \K_1^{\sigma_1^6} \ar[dd, "2", dash] \ar[dddr, "3", dash] && \\
+                & & \K_1^{\sigma_1^4} \simeq \K_{f_1} \ar[ddl, "2", dash] \\
+                \K_1^{\sigma_1^3} \ar[dd, "2", dash] \ar[dddr, "3", dash]&& \\
+                & \K_g := \K_1^{\sigma_1^2} \ar[dd, "2", dash] & \\
+                \K_h \ar[ddr, "3", dash] && \\
+                & \K_1^{\sigma_1} \ar[d, "2", dash] & \\
+                & \Q &
+                \end{tikzcd}
+                \]
+                \end{figure}
+\end{center}
+\end{document}

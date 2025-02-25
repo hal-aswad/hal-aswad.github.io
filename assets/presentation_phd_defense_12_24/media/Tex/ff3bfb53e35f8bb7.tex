@@ -1,0 +1,37 @@
+\documentclass[preview]{standalone}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{hhline}
+\renewcommand{\theadfont}{\bfseries}
+\renewcommand\arraystretch{1.5}
+\usepackage{xcolor, colortbl}
+\begin{document}
+\begin{center}
+\begin{tabular}{|c||c||c|c|c|c|}
+            \hline
+            & & & & \multicolumn{2}{c|}{\textbf{Our work} (Factory)} \\
+            \thead{Algorithm} & \thead{Range} & \thead{Usual\\approach} & \thead{Multiple\\variant} & \thead{Precomputation\\in each field} & \thead{Computation\\in each field} \\
+            \hline
+            \hline
+            & Prime fields & 1.92 & 1.90 & 2.01~[Barbulescu] & 1.64~[Barbulescu] \\
+            \cline{2-6}
+            & Large $p$ & 1.92 & 1.90 & \bfseries 2.01 & \bfseries 1.64 \\
+            \cline{2-6}
+            NFS & $p = L_Q(2/3)$ & \multicolumn{4}{c|}{\bfseries Figure~8 in paper} \\
+            \cline{2-6}
+            & Medium $p$ & 2.20 & 2.16 & \bfseries 2.45 & \bfseries 1.73 \\
+            \arrayrulecolor{yellow}\hline
+            TNFS & Medium $p$ & 1.75 & 1.71 & \bfseries 1.94 & \bfseries 1.37 \\
+            \arrayrulecolor{yellow}\hline
+            SNFS & Large $p$ & 1.53 & - & \bfseries 1.85 & \bfseries 1.39 \\
+            \cline{2-6}
+            & Medium $p$ & \multicolumn{4}{c|}{\bfseries Table~9 in paper} \\
+            \arrayrulecolor{white} \hline
+            STNFS & Medium $p$ & \multicolumn{4}{c|}{\bfseries Table~10 in paper} \\
+            \hline
+        \end{tabular}
+\end{center}
+\end{document}

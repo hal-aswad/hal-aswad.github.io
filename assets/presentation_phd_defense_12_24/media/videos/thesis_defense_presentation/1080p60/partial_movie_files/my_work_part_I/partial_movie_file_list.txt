@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3529212410_123554531_3408174865.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_743453705_1265761573.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_2636212446_3644590709.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_3817495494_1104470284.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_3559083249_3687739437.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_107655831_1936123113.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_1417421203_4154079687.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/my_work_part_I/3040924799_4228259395_825092772.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/individual/3529212410_123554531_2833438119.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/individual/3040924799_3641862798_1588846727.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/individual/3040924799_2732393861_1332061234.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/individual/3040924799_3079027121_464241952.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/individual/3040924799_1324105917_2519784402.mp4'
+file 'file:/home/halaswad/Documents/these-haetham/soutenance/media/videos/thesis_defense_presentation/1080p60/partial_movie_files/individual/3040924799_2073460275_2439900437.mp4'
