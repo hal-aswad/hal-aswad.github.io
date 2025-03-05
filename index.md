@@ -16,7 +16,7 @@ A work with Cécile Pierrot and Emmanuel Thomé on using Galois automorphisms in
 We have exciting results that lead to significant accelerations in the linear algebra step. These accelerations allow significant and practical improvements in attacks against pairings.
 
 
-# Short Vita: (<a href="{{ site.baseurl }}/assets/cv_en.pdf">Long_curriculum_vitae.pdf</a>)
+# Short Vita: (<a href="{{ site.baseurl }}/assets/cv_english.pdf">Long_curriculum_vitae.pdf</a>)
 
 - **Doctorat "the discrete logarithm problem in extensions of finite fields"**, at LORIA, Nancy, France, under the supervision of Cécile PIERROT and Emmanuel THOMÉ, 
 defended on december 2024.
