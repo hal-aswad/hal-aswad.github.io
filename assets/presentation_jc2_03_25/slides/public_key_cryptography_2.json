@@ -1,0 +1,53 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/public_key_cryptography_2/77a0d1926eda6801a72016a94474793a0ce0c385d2da7f26ac5d3f6eb13af1cd.mp4",
+      "rev_file": "slides/files/public_key_cryptography_2/77a0d1926eda6801a72016a94474793a0ce0c385d2da7f26ac5d3f6eb13af1cd_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/public_key_cryptography_2/30c6ddc83b5e82fb83435cf976d751777a9d74152346db6848a775c48d86b6d1.mp4",
+      "rev_file": "slides/files/public_key_cryptography_2/30c6ddc83b5e82fb83435cf976d751777a9d74152346db6848a775c48d86b6d1_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/public_key_cryptography_2/1c3d02fdbe825f73b8e052da0476197c9ff0c5574e2a5f7caa5aa0579f163551.mp4",
+      "rev_file": "slides/files/public_key_cryptography_2/1c3d02fdbe825f73b8e052da0476197c9ff0c5574e2a5f7caa5aa0579f163551_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "file": "slides/files/public_key_cryptography_2/ce8715050dd3a9a0916cd2c3fc3c6aed4d76294a1075120afb1ffd531dd0c70f.mp4",
+      "rev_file": "slides/files/public_key_cryptography_2/ce8715050dd3a9a0916cd2c3fc3c6aed4d76294a1075120afb1ffd531dd0c70f_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
